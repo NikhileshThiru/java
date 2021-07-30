@@ -4,17 +4,17 @@ public class Data_Types {
 
     public static void main(String[] args) {
 
-        byte
-        short
-        int
-        long
+        //byte
+        //short
+        //int
+        //long
 
-        float
-        double
+        //float
+        //double
 
-        boolean
+        //boolean
 
-        char
+        //char
     }
 
 }
